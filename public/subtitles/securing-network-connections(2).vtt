@@ -1,0 +1,335 @@
+﻿WEBVTT
+
+00:00:05.520 --> 00:00:11.920
+Next will be the wireless network security.
+Wireless networks are used to connect the
+
+00:00:11.920 --> 00:00:17.680
+computers to each other without any cables.
+They have become popular due to the ease of
+
+00:00:17.680 --> 00:00:21.760
+installation and the increasing
+popularity of laptop computers.
+
+00:00:23.120 --> 00:00:31.360
+Restaurants, hotels, business centers, apartment
+complexes, and individuals often provide wireless
+
+00:00:31.360 --> 00:00:38.880
+access with little or no protection. The
+network is referred to as a "service set
+
+00:00:38.880 --> 00:00:47.360
+identifier". All devices on the network must use
+the same SSID to communicate with each other.
+
+00:00:50.400 --> 00:00:54.720
+The major advantage of wireless
+networks is user mobility,
+
+00:00:54.720 --> 00:01:01.120
+that is within the range of a particular network.
+A network has sufficient bandwidth to enable
+
+00:01:01.120 --> 00:01:08.000
+a wide range of applications and services such
+as police radios, palm pilots, and cell phones.
+
+00:01:09.360 --> 00:01:16.400
+The main concern has to do with the mobility of
+users who expect flawless reception between access
+
+00:01:16.400 --> 00:01:24.880
+points. It is not necessary to re-log in and
+restore network applications. A wireless exchange
+
+00:01:24.880 --> 00:01:30.720
+is possible only if the access points exchange
+data with every transfer of one user to another.
+
+00:01:32.080 --> 00:01:40.800
+Wireless networks provide the freedom to roam with
+uninterrupted connectivity. Now, we're going to
+
+00:01:40.800 --> 00:01:47.280
+talk about the network security threats.
+First on the list is Malware.
+
+00:01:48.640 --> 00:01:54.320
+Email, instant messaging, and file sharing
+programs have traditionally been used to
+
+00:01:54.320 --> 00:02:02.560
+spread viruses, worms, back doors, root kits,
+trojans, and spyware from computer to computer.
+
+00:02:04.480 --> 00:02:08.400
+Sniffing
+Wi-fi access points can be used
+
+00:02:08.400 --> 00:02:16.400
+by hackers to set up packet sniffers to monitor
+all traffic that comes and goes in a network.
+
+00:02:18.720 --> 00:02:20.000
+Denial of Service
+
+00:02:20.640 --> 00:02:26.640
+It leads the computer to crash or to become so
+busy in processing data that it cannot be used.
+
+00:02:29.200 --> 00:02:35.920
+Mobile Code
+either Java, Javascript and ActiveX, intruders use
+
+00:02:35.920 --> 00:02:43.040
+a mobile code to gather information from websites
+visited or to run malicious code in the computer.
+
+00:02:45.520 --> 00:02:46.560
+Email Spoofing
+
+00:02:47.520 --> 00:02:51.920
+An email message that appears to have
+originated from one source when it was
+
+00:02:51.920 --> 00:02:56.240
+really sent from another to trick the
+user in providing sensitive information.
+
+00:02:57.920 --> 00:03:03.840
+Chat clients allow the exchange of
+executable code that may be malicious.
+
+00:03:06.080 --> 00:03:13.120
+Being an intermediary for another attack
+Intruders use compromised computers for
+
+00:03:13.120 --> 00:03:19.120
+attacking other systems. Backdoor
+and remote administration programs
+
+00:03:20.640 --> 00:03:24.080
+BackOrifice, NetBus and SubSeven
+
+00:03:24.080 --> 00:03:32.240
+are the tools commonly used by intruders to
+attack windows computer. Cross-site scripting
+
+00:03:32.240 --> 00:03:38.000
+It is when a malicious web developer may
+attach a script to something sent to a website
+
+00:03:38.000 --> 00:03:43.200
+such as a URL that is transferred to your
+browser when the website responds to you.
+
+00:03:44.960 --> 00:03:52.880
+Unprotected windows shares can be exploited by
+intruders to place distributed attack tools for
+
+00:03:52.880 --> 00:04:01.920
+windows based computers attached to the
+internet. Securing Network Connections
+
+00:04:03.520 --> 00:04:09.520
+To secure network connections, first,
+use a firewall. A firewall is a part
+
+00:04:09.520 --> 00:04:14.800
+of a computer system or network that is
+designed to block unauthorized access.
+
+00:04:16.000 --> 00:04:22.320
+It controls traffic coming into and leaving the
+system by permitting authorized communications.
+
+00:04:24.000 --> 00:04:31.440
+Examples of software firewalls are Windows
+Firewall, Norton personal firewall, McAfee
+
+00:04:32.400 --> 00:04:40.920
+personal firewall, Subeit personal firewall,
+ZoneAlarm and Comodo personal firewall. Next
+
+00:04:41.760 --> 00:04:47.440
+is to use an antivirus protection.
+An antivirus is a software used to
+
+00:04:47.440 --> 00:04:53.120
+detect viruses and protect the system from
+threats. It should be used at the server.
+
+00:04:54.400 --> 00:05:02.400
+Viruses can be detected using specific or generic
+methods. Specific methods look for the exact virus
+
+00:05:02.400 --> 00:05:07.440
+while the generic look for virus-like
+performance and may cause false alarms.
+
+00:05:09.200 --> 00:05:16.000
+Anti-virus should be configured to scan all
+workstations; the complete network at regular
+
+00:05:16.000 --> 00:05:24.640
+intervals; all incoming and outgoing traffic;
+email attachments, downloads, and browsing.
+
+00:05:26.240 --> 00:05:33.360
+Here are some examples of antivirus
+software. First is AVG antivirus
+
+00:05:33.360 --> 00:05:41.360
+which is a product by the Grisoft company.
+It can be downloaded from www.grisoft.com,
+
+00:05:41.360 --> 00:05:49.360
+and like any other antivirus software, it detects
+and removes viruses from the system. Norton
+
+00:05:50.800 --> 00:05:56.320
+Norton antivirus is a product of Symantec
+corporation. It can be downloaded from
+
+00:05:56.320 --> 00:06:05.840
+www.symantec.com and it can detect and remove
+viruses and other malicious codes from the system.
+
+00:06:08.160 --> 00:06:13.040
+Kaspersky
+Kaspersky antivirus provides a
+
+00:06:13.040 --> 00:06:20.000
+user with traditional anti-virus protection based
+on the latest protection technologies. The user
+
+00:06:20.000 --> 00:06:26.480
+can work, communicate, surf the internet, and play
+online games on the computer safely and easily.
+
+00:06:30.160 --> 00:06:36.560
+Next tip would be to use strong passwords.
+Password is the first line of defense and
+
+00:06:36.560 --> 00:06:40.880
+the user should ensure that the passwords
+selected for all user accounts are strong,
+
+00:06:42.480 --> 00:06:47.440
+and while creating a password, the user should
+remember that the password should be: first,
+
+00:06:47.440 --> 00:06:53.680
+easy to remember. The password must be something
+that the user can remember, but not related to the
+
+00:06:53.680 --> 00:07:02.720
+user. It should not contain any bank information.
+Next a password should contain long and multiple
+
+00:07:02.720 --> 00:07:10.480
+symbols. A strong password is 8 to 10 digits
+long with letters numbers and special characters.
+
+00:07:13.120 --> 00:07:15.840
+Passwords should also be frequently changing.
+
+00:07:17.200 --> 00:07:22.320
+Create the schedule to change the password
+periodically, and use strong encryption algorithms
+
+00:07:22.320 --> 00:07:28.720
+to encrypt the password storage files such as
+a security account manager, and passwd.conf
+
+00:07:29.600 --> 00:07:38.720
+file. Next is password should withstand filters
+and resist crackers. Use a filter that operates
+
+00:07:38.720 --> 00:07:43.840
+in real time, and reinforces some level
+of length and complexity on passwords.
+
+00:07:46.800 --> 00:07:54.800
+Next step for securing network connections
+should be: make regular backups. Regular backups
+
+00:07:54.800 --> 00:08:01.280
+help to avoid the loss of critical data or files
+which can be accidentally deleted or corrupted.
+
+00:08:02.240 --> 00:08:05.520
+It helps to restore data during security issues.
+
+00:08:07.760 --> 00:08:13.680
+The main reasons to backup data include
+restoring the critical data after data loss,
+
+00:08:13.680 --> 00:08:17.680
+and restoring files when they are
+accidentally deleted or corrupted.
+
+00:08:21.280 --> 00:08:26.480
+Know about encryption
+Encryption or the conversion of data
+
+00:08:28.400 --> 00:08:35.040
+into a unreadable form called ciphertext.
+Unencrypted data is called a plain text.
+
+00:08:36.160 --> 00:08:39.840
+Encryption protects sensitive
+information that is transmitted online.
+
+00:08:40.960 --> 00:08:46.720
+It camouflages the data within a file or message
+so that unauthorized users cannot use it.
+
+00:08:48.480 --> 00:08:54.400
+There are two types of encryption:
+asymmetric encryption wherein the user
+
+00:08:54.400 --> 00:08:59.440
+uses two keys - one key for encryption
+and the other key is for decryption.
+
+00:09:00.880 --> 00:09:07.840
+Next would be the symmetric encryption which
+uses one key for both encryption and decryption.
+
+00:09:10.400 --> 00:09:12.960
+To summarize the whole lesson, first,
+
+00:09:13.680 --> 00:09:19.840
+a firewall is part of a computer system or network
+that is designed to block unauthorized access.
+
+00:09:21.280 --> 00:09:25.920
+The router acts as a shield to the
+network and manages all communications.
+
+00:09:27.760 --> 00:09:32.640
+Wireless networks are used to connect the
+computers to each other without any cables.
+
+00:09:34.480 --> 00:09:40.000
+Eavesdropping, data interception,
+and modification, denial of service,
+
+00:09:40.000 --> 00:09:45.840
+spoofing, freeloading, and rogue WLANs are
+the common threads to the wireless network.
+
+00:09:47.760 --> 00:09:54.880
+Sniffing, malware, email spoofing, chat
+clients, cross-site scripting, unprotected
+
+00:09:54.880 --> 00:10:02.400
+windows shares, and mobile code on some of the
+network security threats. Lastly, secure network
+
+00:10:02.400 --> 00:10:15.760
+connections using firewall anti-virus using strong
+passwords regular backups encryption, and so on.

@@ -1,0 +1,120 @@
+This is the continuation of the discussion
+for the passive reconnaissance techniques.
+
+DNS querying queries for name resolution
+information can reveal the target's network
+
+structure. Standard queries identify IP
+addresses associated with domain name.
+
+Advanced queries retrieve additional DNS records
+
+and some querying tools may be used
+such as nslookup and dig in Linux.
+
+Email addresses one of the most useful elements
+of contact information is an email address.
+
+The main point of contact for most organizations
+
+is also email addresses so email addresses
+are also commonly used as account names.
+
+Enumerating email-based DNS records is also
+useful for conducting passive reconnaissance.
+
+Shodan is a search engine that enables anyone to
+connect to public or improperly secure devices
+
+that allow remote access through the internet.
+
+An example scenario is when a zoo sets up an
+IP camera for anyone to watch the animals.
+
+Shodan indexes the connection and
+allows anyone to search for it.
+
+Most devices found in shodan are
+improperly secured or not secured at all.
+
+theHarvester. It is an open source
+OSINT tool that gathers several
+
+different types of background information
+on a target. It gathers subdomain names,
+
+employee names, email addresses, PGP key entries,
+and open ports as well as service banners.
+
+theHarvester uses general search
+engines such as Google and Bing.
+
+Recon-NG it is a command line open
+source for gathering OSINT data.
+
+The functions of recon ng are similar
+to the harvester but more robust.
+
+Maltego. it is a graphical awesome
+tool that can gather a wide variety
+
+of information on public resources;
+Features awesome objects graphically
+
+and with links to the other objects it helps
+the user to visualize OSINT relationships
+
+Foca. Foca or known as Fingerprinting
+Organizations with Collected
+
+Archives is a GUI OSINT tool that
+discovers metadata that may be
+
+hidden within documents. It documents
+typically downloaded files from the web
+
+it can also work with variety of the document
+types such as office, open document, and more.
+
+It uses a search engine like google to identify
+files. It extracts useful metadata such as names
+
+software, or operating system versions ,
+printer information, and plain text passwords
+
+Here are the following guidelines
+for gathering background information.
+
+First, understand that not all
+gathered information will be useful.
+
+Second, understand the difference between
+OSINT and closed-source intelligence.
+
+Third, recognize which sources provide
+OSINT and which do not. Fourth,
+
+perform whois queries to obtain
+registration information.
+
+Fifth, examine organization's main site for
+personal and business information. Sixth,
+
+look for related sites to
+corroborate or expand your OSINT.
+
+Seventh, look over social media
+profiles for revealing information.
+
+Eight, search job boards for personal
+issues or technology information.
+
+Ninth, conduct google hacking to run
+advanced queries on websites and then
+
+the last on this page, examine news articles
+to stay up to date on target's business.
+
+Here are more guidelines for
+gathering background information.
+

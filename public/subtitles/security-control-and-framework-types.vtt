@@ -1,0 +1,257 @@
+WEBVTT
+
+1
+00:00:04.700 --> 00:00:08.000
+This is the second topic of Cybersecurity
+
+2
+00:00:08.000 --> 00:00:08.300
+One
+
+3
+00:00:08.600 --> 00:00:13.700
+Security Control and Framework Types. Here's the outline
+
+4
+00:00:13.700 --> 00:00:18.000
+of the lesson, First, we're going to talk about the various
+
+5
+00:00:18.000 --> 00:00:23.200
+types of control, and Second, we'll be talking about Framework
+
+6
+00:00:23.200 --> 00:00:32.000
+Types. The first type of control is preventive controls.
+
+7
+00:00:32.400 --> 00:00:36.100
+It prevents any security breach from occuring.
+
+8
+00:00:36.200 --> 00:00:40.700
+It is aimed at preventing an incident from occuring.
+
+9
+00:00:41.600 --> 00:00:48.300
+Examples of these preventive controls are security guards,
+
+10
+00:00:49.200 --> 00:00:56.400
+biometrics and security cameras. Detective controls.
+
+11
+00:00:57.200 --> 00:01:01.800
+This attempt to detect any break in that has already happened.
+
+12
+00:01:02.100 --> 00:01:07.200
+It aims to detect incidents after they have occured.
+
+13
+00:01:08.300 --> 00:01:16.800
+Such tools to be used are security audit, visual surveillance
+
+14
+00:01:16.900 --> 00:01:19.700
+system and motion detection system.
+
+15
+00:01:23.400 --> 00:01:25.900
+Next is Corrective controls.
+
+16
+00:01:26.200 --> 00:01:31.500
+It attempts to reverse the impact of an incident or problem
+
+17
+00:01:31.700 --> 00:01:33.200
+after it has occured.
+
+18
+00:01:33.400 --> 00:01:37.300
+It aims to reverse the impact of an incident.
+
+19
+00:01:38.500 --> 00:01:43.500
+Such examples we use or actions to be do
+
+20
+00:01:43.900 --> 00:01:51.900
+are intrusion detection system, backups and system recovery.
+
+21
+00:01:55.500 --> 00:02:00.300
+Next is Deterrent controls, which attempts to prevent incidents
+
+22
+00:02:00.600 --> 00:02:02.200
+by discouraging threats.
+
+23
+00:02:03.300 --> 00:02:07.100
+It aims to discourage individuals from causing accident.
+
+24
+00:02:07.900 --> 00:02:12.600
+Such examples of tools that can be used in this control are
+
+25
+00:02:13.200 --> 00:02:15.700
+cable locks and hardware locks.
+
+26
+00:02:20.200 --> 00:02:21.600
+Compensating controls
+
+27
+00:02:22.700 --> 00:02:26.500
+These are alternative controls used when a primary control
+
+28
+00:02:26.600 --> 00:02:27.600
+is not visible.
+
+29
+00:02:28.600 --> 00:02:34.800
+Such examples of this are time-based one-time password and
+
+30
+00:02:34.800 --> 00:02:35.500
+pin number.
+
+31
+00:02:38.000 --> 00:02:41.100
+Next, we're going to talk about the Cybersecurity Framework
+
+32
+00:02:42.100 --> 00:02:49.800
+types. The first framework type would be NIST Cybersecurity
+
+33
+00:02:49.800 --> 00:02:54.600
+Framework. It is established by the National Institute of
+
+34
+00:02:54.600 --> 00:02:58:700
+Standards and Technology and most widely used by American
+
+35
+00:02:58.700 --> 00:03:03.900
+companies. It offers the assurance of having being developed
+
+36
+00:03:03.900 --> 00:03:08:000
+by US federal government in collaboration with private businesses.
+
+37
+00:03:10.100 --> 00:03:15.200
+It offers detailed guidance on everything from risk assessment
+
+38
+00:03:15.200 --> 00:03:19.500
+and continuous monitoring to incident response and awareness
+
+39
+00:03:19.500 --> 00:03:28.400
+training. Next on the list is ISO, which is designed to provide
+
+40
+00:03:28.400 --> 00:03:32.500
+a framework for achieving a certified level of data security
+
+41
+00:03:32.800 --> 00:03:36.400
+compliance that needs external assessment standards.
+
+42
+00:03:36.600 --> 00:03:41.800
+It is developed by the International Organization of Standardization
+
+43
+00:03:42.000 --> 00:03:45.300
+and the International Electrotechnical Commission.
+
+44
+00:03:47.300 --> 00:03:52.900
+It is designed to ensure a level of data privacy and confidentiality
+
+45
+00:03:52.900 --> 00:03:57.400
+that not only helps companies avoid prosecution but also
+
+46
+00:03:57.400 --> 00:04:01.700
+to maximize operational efficiencies through reduction of
+
+47
+00:04:01.700 --> 00:04:04.100
+vulnerability to disruptive attacks.
+
+48
+00:04:07.900 --> 00:04:14.400
+Next is the Critical Security Controls Framework developed
+
+49
+00:04:14.400 --> 00:04:15.800
+by the Sans Institute.
+
+50
+00:04:16.000 --> 00:04:20.900
+It offers an expert level understanding of cybersecurity,
+
+51
+00:04:21.200 --> 00:04:25.600
+and it is a claim for breaking down those insights into three
+
+52
+00:04:25.600 --> 00:04:27.900
+manageable and actionable categories.
+
+53
+00:04:29.300 --> 00:04:34.700
+This framework provides a defense mechanism to ensure that 
+
+54
+00:04:34.700 --> 00:04:39.300
+authorized personnel are accessing appropriate data and assets.
+
+55
+00:04:40.300 --> 00:04:44.800
+Last on the list is COBIT, which stands for Control Objectives
+
+56
+00:04:45.000 --> 00:04:47.000
+for Information-related Technology.
+
+57
+00:04:47.300 --> 00:04:52.000
+It is designed to guarantee the integrity of organization's
+
+58
+00:04:52.100 --> 00:04:55.500
+data infrastructure from operational perspective.
+
+59
+00:04:55.700 --> 00:05:00.800
+It offers a tool for managers to assess risks and eliminate
+
+60
+00:05:00.800 --> 00:05:01.500
+weak spots
+
+61
+00:05:01.700 --> 00:05:03.000
+from a big perspective.
+
+62
+00:05:04.000 --> 00:05:08:800
+It also provides a means for ensuring data security while
+
+63
+00:05:08.800 --> 00:05:12.900
+avoiding the wasted resources that come with the application
+
+64
+00:05:13.000 --> 00:05:13.400
+effort.

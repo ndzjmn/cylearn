@@ -1,0 +1,122 @@
+This is the second topic of Cybersecurity
+
+One
+
+Security Control and Framework Types. Here's the outline
+
+of the lesson, First, we're going to talk about the various
+
+types of control, and Second, we'll be talking about Framework
+
+Types. The first type of control is preventive controls.
+
+It prevents any security breach from occuring.
+
+It is aimed at preventing an incident from occuring.
+
+Examples of these preventive controls are security guards,
+
+biometrics and security cameras. Detective controls.
+
+This attempt to detect any break in that has already happened.
+
+It aims to detect incidents after they have occured.
+
+Such tools to be used are security audit, visual surveillance
+
+system and motion detection system.
+
+Next is Corrective controls.
+
+It attempts to reverse the impact of an incident or problem
+
+after it has occured.
+
+It aims to reverse the impact of an incident.
+
+Such examples we use or actions to be do
+
+are intrusion detection system, backups and system recovery.
+
+Next is Deterrent controls, which attempts to prevent incidents
+
+by discouraging threats.
+
+It aims to discourage individuals from causing accident.
+
+Such examples of tools that can be used in this control are
+
+cable locks and hardware locks.
+
+Compensating controls
+
+These are alternative controls used when a primary control
+
+is not visible.
+
+Such examples of this are time-based one-time password and
+
+pin number.
+
+Next, we're going to talk about the Cybersecurity Framework
+
+types. The first framework type would be NIST Cybersecurity
+
+Framework. It is established by the National Institute of
+
+companies. It offers the assurance of having being developed
+
+It offers detailed guidance on everything from risk assessment
+
+and continuous monitoring to incident response and awareness
+
+training. Next on the list is ISO, which is designed to provide
+
+a framework for achieving a certified level of data security
+
+compliance that needs external assessment standards.
+
+It is developed by the International Organization of Standardization
+
+and the International Electrotechnical Commission.
+
+It is designed to ensure a level of data privacy and confidentiality
+
+that not only helps companies avoid prosecution but also
+
+to maximize operational efficiencies through reduction of
+
+vulnerability to disruptive attacks.
+
+Next is the Critical Security Controls Framework developed
+
+by the Sans Institute.
+
+It offers an expert level understanding of cybersecurity,
+
+and it is a claim for breaking down those insights into three
+
+manageable and actionable categories.
+
+This framework provides a defense mechanism to ensure that
+
+authorized personnel are accessing appropriate data and assets.
+
+Last on the list is COBIT, which stands for Control Objectives
+
+for Information-related Technology.
+
+It is designed to guarantee the integrity of organization's
+
+data infrastructure from operational perspective.
+
+It offers a tool for managers to assess risks and eliminate
+
+weak spots
+
+from a big perspective.
+
+avoiding the wasted resources that come with the application
+
+effort.
+

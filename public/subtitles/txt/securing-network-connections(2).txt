@@ -1,0 +1,249 @@
+Next will be the wireless network security.
+Wireless networks are used to connect the
+
+computers to each other without any cables.
+They have become popular due to the ease of
+
+installation and the increasing
+popularity of laptop computers.
+
+Restaurants, hotels, business centers, apartment
+complexes, and individuals often provide wireless
+
+access with little or no protection. The
+network is referred to as a "service set
+
+identifier". All devices on the network must use
+the same SSID to communicate with each other.
+
+The major advantage of wireless
+networks is user mobility,
+
+that is within the range of a particular network.
+A network has sufficient bandwidth to enable
+
+a wide range of applications and services such
+as police radios, palm pilots, and cell phones.
+
+The main concern has to do with the mobility of
+users who expect flawless reception between access
+
+points. It is not necessary to re-log in and
+restore network applications. A wireless exchange
+
+is possible only if the access points exchange
+data with every transfer of one user to another.
+
+Wireless networks provide the freedom to roam with
+uninterrupted connectivity. Now, we're going to
+
+talk about the network security threats.
+First on the list is Malware.
+
+Email, instant messaging, and file sharing
+programs have traditionally been used to
+
+spread viruses, worms, back doors, root kits,
+trojans, and spyware from computer to computer.
+
+Sniffing
+Wi-fi access points can be used
+
+by hackers to set up packet sniffers to monitor
+all traffic that comes and goes in a network.
+
+Denial of Service
+
+It leads the computer to crash or to become so
+busy in processing data that it cannot be used.
+
+Mobile Code
+either Java, Javascript and ActiveX, intruders use
+
+a mobile code to gather information from websites
+visited or to run malicious code in the computer.
+
+Email Spoofing
+
+An email message that appears to have
+originated from one source when it was
+
+really sent from another to trick the
+user in providing sensitive information.
+
+Chat clients allow the exchange of
+executable code that may be malicious.
+
+Being an intermediary for another attack
+Intruders use compromised computers for
+
+attacking other systems. Backdoor
+and remote administration programs
+
+BackOrifice, NetBus and SubSeven
+
+are the tools commonly used by intruders to
+attack windows computer. Cross-site scripting
+
+It is when a malicious web developer may
+attach a script to something sent to a website
+
+such as a URL that is transferred to your
+browser when the website responds to you.
+
+Unprotected windows shares can be exploited by
+intruders to place distributed attack tools for
+
+windows based computers attached to the
+internet. Securing Network Connections
+
+To secure network connections, first,
+use a firewall. A firewall is a part
+
+of a computer system or network that is
+designed to block unauthorized access.
+
+It controls traffic coming into and leaving the
+system by permitting authorized communications.
+
+Examples of software firewalls are Windows
+Firewall, Norton personal firewall, McAfee
+
+personal firewall, Subeit personal firewall,
+ZoneAlarm and Comodo personal firewall. Next
+
+is to use an antivirus protection.
+An antivirus is a software used to
+
+detect viruses and protect the system from
+threats. It should be used at the server.
+
+Viruses can be detected using specific or generic
+methods. Specific methods look for the exact virus
+
+while the generic look for virus-like
+performance and may cause false alarms.
+
+Anti-virus should be configured to scan all
+workstations; the complete network at regular
+
+intervals; all incoming and outgoing traffic;
+email attachments, downloads, and browsing.
+
+Here are some examples of antivirus
+software. First is AVG antivirus
+
+which is a product by the Grisoft company.
+It can be downloaded from www.grisoft.com,
+
+and like any other antivirus software, it detects
+and removes viruses from the system. Norton
+
+Norton antivirus is a product of Symantec
+corporation. It can be downloaded from
+
+www.symantec.com and it can detect and remove
+viruses and other malicious codes from the system.
+
+Kaspersky
+Kaspersky antivirus provides a
+
+user with traditional anti-virus protection based
+on the latest protection technologies. The user
+
+can work, communicate, surf the internet, and play
+online games on the computer safely and easily.
+
+Next tip would be to use strong passwords.
+Password is the first line of defense and
+
+the user should ensure that the passwords
+selected for all user accounts are strong,
+
+and while creating a password, the user should
+remember that the password should be: first,
+
+easy to remember. The password must be something
+that the user can remember, but not related to the
+
+user. It should not contain any bank information.
+Next a password should contain long and multiple
+
+symbols. A strong password is 8 to 10 digits
+long with letters numbers and special characters.
+
+Passwords should also be frequently changing.
+
+Create the schedule to change the password
+periodically, and use strong encryption algorithms
+
+to encrypt the password storage files such as
+a security account manager, and passwd.conf
+
+file. Next is password should withstand filters
+and resist crackers. Use a filter that operates
+
+in real time, and reinforces some level
+of length and complexity on passwords.
+
+Next step for securing network connections
+should be: make regular backups. Regular backups
+
+help to avoid the loss of critical data or files
+which can be accidentally deleted or corrupted.
+
+It helps to restore data during security issues.
+
+The main reasons to backup data include
+restoring the critical data after data loss,
+
+and restoring files when they are
+accidentally deleted or corrupted.
+
+Know about encryption
+Encryption or the conversion of data
+
+into a unreadable form called ciphertext.
+Unencrypted data is called a plain text.
+
+Encryption protects sensitive
+information that is transmitted online.
+
+It camouflages the data within a file or message
+so that unauthorized users cannot use it.
+
+There are two types of encryption:
+asymmetric encryption wherein the user
+
+uses two keys - one key for encryption
+and the other key is for decryption.
+
+Next would be the symmetric encryption which
+uses one key for both encryption and decryption.
+
+To summarize the whole lesson, first,
+
+a firewall is part of a computer system or network
+that is designed to block unauthorized access.
+
+The router acts as a shield to the
+network and manages all communications.
+
+Wireless networks are used to connect the
+computers to each other without any cables.
+
+Eavesdropping, data interception,
+and modification, denial of service,
+
+spoofing, freeloading, and rogue WLANs are
+the common threads to the wireless network.
+
+Sniffing, malware, email spoofing, chat
+clients, cross-site scripting, unprotected
+
+windows shares, and mobile code on some of the
+network security threats. Lastly, secure network
+
+connections using firewall anti-virus using strong
+passwords regular backups encryption, and so on.
+

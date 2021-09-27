@@ -1,0 +1,260 @@
+﻿WEBVTT
+
+00:00:05.280 --> 00:00:11.200
+Here is the lesson flow: (1)
+introduction to antivirus software;
+
+00:00:12.080 --> 00:00:20.480
+(2) how does antivirus software work and
+(3) choosing the best antivirus software.
+
+00:00:23.600 --> 00:00:25.840
+Introduction to Antivirus Software
+
+00:00:29.440 --> 00:00:35.440
+A computer plugged into the internet is always
+at high risk and it is always recommended
+
+00:00:35.440 --> 00:00:42.480
+to install antivirus software onto the
+system. A computer virus can degrade
+
+00:00:42.480 --> 00:00:49.280
+the performance of a computer and delete stored
+computer data. Viruses usually spread through
+
+00:00:49.280 --> 00:00:56.560
+networks by means of download, email and shared
+disk. If an infected file is attached to these
+
+00:00:56.560 --> 00:01:02.320
+sources then the system is likely to become
+infected upon opening the infected files.
+
+00:01:03.760 --> 00:01:11.840
+Some of the symptoms indicating viral infection
+are improper functioning of applications.
+
+00:01:11.840 --> 00:01:19.360
+Slow operation and unusual error message, frequent
+hanging, frequent restarting, problem sprinting,
+
+00:01:19.360 --> 00:01:27.520
+double extension on any attachment, and distorted
+menus and dialog boxes. An antivirus program
+
+00:01:27.520 --> 00:01:35.120
+scans the hard drive and floppy disk to protect
+the computer against viruses, worms, spywares,
+
+00:01:35.120 --> 00:01:42.400
+trojans and more. It ensures that the system is
+healthy and alerts the person to implement safety
+
+00:01:42.400 --> 00:01:50.000
+measures against harmful attacks. Regularly update
+the antivirus software by subscribing to the
+
+00:01:50.000 --> 00:01:57.040
+updates from anti-virus vendors whenever offered.
+The virus dictionary and the suspicious behavior
+
+00:01:57.040 --> 00:02:02.720
+approaches are the most widely used approaches
+by antivirus software to detect malware.
+
+00:02:05.680 --> 00:02:07.840
+The Need for Antivirus Program
+
+00:02:10.480 --> 00:02:15.840
+When a PC is connected to the internet, the
+PC has to combat different malicious programs
+
+00:02:15.840 --> 00:02:22.320
+such as viruses, worms,
+trojans, spyware, and more.
+
+00:02:23.680 --> 00:02:29.520
+Cyber criminals such as attackers, and hackers
+use these malicious programs as tools to steal
+
+00:02:29.520 --> 00:02:36.720
+important information such as personal data
+stored in the computer. Due to the invasion of
+
+00:02:36.720 --> 00:02:43.040
+malicious programs in the cyberspace, antivirus
+programs have become necessary for computers.
+
+00:02:45.520 --> 00:02:52.240
+How does antivirus software work?
+Most of the commercial antivirus
+
+00:02:52.240 --> 00:02:57.600
+software used two techniques: First, one
+would be the virus dictionary approach
+
+00:02:58.800 --> 00:03:03.840
+and the second one would be detecting
+suspicious behavior from a computer program.
+
+00:03:05.920 --> 00:03:12.560
+First one is the virus dictionary approach.
+The antivirus software refers to the dictionary
+
+00:03:12.560 --> 00:03:18.160
+of known viruses identified by the
+author of the antivirus software.
+
+00:03:18.160 --> 00:03:24.000
+The antivirus software can delete the file repair
+the file by removing the virus or quarantine it to
+
+00:03:24.000 --> 00:03:30.880
+make the file inaccessible to other programs. To
+be successful, this approach requires the virus
+
+00:03:30.880 --> 00:03:37.760
+dictionary to be updated with periodic online
+downloads. The antivirus software usually examines
+
+00:03:37.760 --> 00:03:43.120
+files when the OS creates opens and closes
+the files as well as when they are emailed.
+
+00:03:44.480 --> 00:03:49.520
+The software can be normally scheduled on
+the hard disk to regularly examine the files.
+
+00:03:53.280 --> 00:03:59.840
+The suspicious behavior approach include the
+following: In this approach, the antivirus
+
+00:03:59.840 --> 00:04:06.880
+software monitors the behavior of all programs
+instead of identifying the known viruses. Whenever
+
+00:04:06.880 --> 00:04:14.240
+the program its suspicious behavior is found the
+software alerts the user and asks what to do.
+
+00:04:14.240 --> 00:04:20.480
+This approach provides protection against new
+viruses that do not exist in virus dictionaries.
+
+00:04:24.080 --> 00:04:30.800
+There are other ways to detect viruses. First one
+would be antivirus software will try to emulate
+
+00:04:30.800 --> 00:04:36.640
+the beginning of each new executable code that
+is being executed before transferring control to
+
+00:04:36.640 --> 00:04:44.400
+the executable. If the program seems to be a virus
+or using self-modifying code, then it immediately
+
+00:04:44.400 --> 00:04:51.280
+examines the other executable programs. This
+approach results in more false positives.
+
+00:04:53.520 --> 00:04:59.440
+Sandbox is another kind of detection method
+that emulates the OS and runs the executable
+
+00:04:59.440 --> 00:05:04.720
+in situation. The sandbox is examined for a virus
+
+00:05:04.720 --> 00:05:10.240
+after the termination of a program. It
+is performed during an on-demand scans.
+
+00:05:14.720 --> 00:05:16.960
+Choosing the Best Antivirus Software
+
+00:05:20.160 --> 00:05:24.800
+When purchasing an anti-virus software,
+look for certain features and choose the
+
+00:05:24.800 --> 00:05:29.920
+one that can best serve your needs. The
+most important things to consider are:
+
+00:05:30.960 --> 00:05:36.880
+In antivirus scanning there should be antivirus
+detection accuracy which ensures that the
+
+00:05:36.880 --> 00:05:44.160
+anti-virus software scans and detects viruses
+accurately and detects the majority of threats.
+
+00:05:45.840 --> 00:05:50.640
+For the scanning speed, ensure that
+the anti-virus software can perform
+
+00:05:50.640 --> 00:05:58.960
+the task quickly and efficiently. For resource
+utilization, ensures that the anti-virus software
+
+00:05:58.960 --> 00:06:05.840
+utilizes minimal resources and does not affect
+system performance when scanning the computer.
+
+00:06:07.280 --> 00:06:12.560
+Next things to consider are the hacker
+blocking which prevents other users from
+
+00:06:12.560 --> 00:06:18.880
+gaining unauthorized access and stealing important
+data such as passwords and other confidential
+
+00:06:18.880 --> 00:06:26.960
+information. Next is the bidirectional firewall,
+ensure that the antivirus software is equipped
+
+00:06:26.960 --> 00:06:35.680
+with a software firewall to scan both incoming and
+outgoing traffic. Next is the technical support,
+
+00:06:36.640 --> 00:06:45.520
+look for good technical support so issues can be
+solved easily. Parental controls - ensure that the
+
+00:06:45.520 --> 00:06:51.040
+antivirus program has parental control features
+so children can browse the internet safely.
+
+00:06:52.960 --> 00:06:59.520
+Next is the easy installation the antivirus
+software should be user friendly and easy to use.
+
+00:07:01.360 --> 00:07:04.400
+The antivirus must also be on demand and
+
+00:07:04.400 --> 00:07:11.200
+has a scheduled scanning. Allows you to schedule
+a scan according to a user specified time
+
+00:07:11.840 --> 00:07:19.760
+users can schedule the scan daily weekly or
+monthly. The last three things to consider
+
+00:07:20.880 --> 00:07:26.320
+in choosing the best antivirus software are
+the automatic updates which keeps the user
+
+00:07:26.320 --> 00:07:31.360
+abreast of the latest online threats without
+the user having to visit the vendor's website.
+
+00:07:33.120 --> 00:07:37.920
+Spyware detection and prevention which
+checks for the anti-spyware components
+
+00:07:37.920 --> 00:07:44.800
+keep spyware at bay and lastly, email
+scanning email protection that can monitor
+
+00:07:44.800 --> 00:07:51.920
+POP and SMTP ports and ensure that the emails
+do not contain threat to your computer.

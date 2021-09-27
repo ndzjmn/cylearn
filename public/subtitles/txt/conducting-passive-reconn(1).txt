@@ -1,0 +1,88 @@
+For our next lesson, we're going to talk
+about Conducting Passive Reconnaissance.
+
+Here is the outline of our lesson: (1) we'll be
+talking about passive reconnaissance techniques;
+
+(2) we'll talk about the terminologies and
+the (3) we'll be talking about preparation
+
+for the next steps. First is Information
+Gathering. It is a process of identifying,
+
+discovering, and obtaining information that
+may have relevance to the penetration test.
+
+Second is OSINT or open source intelligence. An
+actionable information that has been gathered
+
+from freely and publicly available sources.
+
+Next is whois. It is a protocol
+that supports querying of data
+
+related to entities who register public
+domains and on their internet resources.
+
+This information is available
+to anyone who queries databases.
+
+Next, information can also be coming
+from the organization's website.
+
+Marketing sites have the potential to be the
+OSINT. Most sites have the "About" page. These
+
+marketing sites provide a following information
+such as high profile personnel, upcoming events,
+
+forms to be filled out, user forums, additional
+contact information and links to social media.
+
+Social media can also be used
+for passive reconnaissance.
+
+Most organizations have some
+presence on the social media.
+
+Rich source of information about these individuals
+can be found such social media sites like Twitter,
+
+Facebook, LinkedIn, YouTube,
+Instagram and Reddit may be used.
+
+On job boards, job posts may reveal
+
+information about the personal structure,
+technical environments, and more.
+
+Every employer on job posts needs to entice
+and provide enough information to prospective
+
+applicants amount and type of information
+given is dependent on this industry and job.
+
+Next is Google Hacking. It is a
+process of using google search engine
+
+to identify potential security weaknesses. It is
+also not considered hacking in a strict sense.
+
+You may extract information from a typical
+search. It includes special search operators
+
+to provide more focused results such as site,
+link, filetype, intitle, inurl and inanchor.
+
+Information can also be found
+in online articles and news.
+
+It can provide insights about the target
+organization. Usually, larger businesses are
+
+featured by mainstream news outlets while
+smaller businesses issue press releases.
+
+It will not always reveal what you need to know.
+This should be a conjunction with other OSINT.
+

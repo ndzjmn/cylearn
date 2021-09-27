@@ -1,0 +1,119 @@
+﻿WEBVTT
+
+00:00:02.800 --> 00:00:08.080
+For our next lesson, we're going to talk
+about Conducting Passive Reconnaissance.
+
+00:00:09.760 --> 00:00:16.400
+Here is the outline of our lesson: (1) we'll be
+talking about passive reconnaissance techniques;
+
+00:00:17.280 --> 00:00:24.320
+(2) we'll talk about the terminologies and
+the (3) we'll be talking about preparation
+
+00:00:24.320 --> 00:00:35.440
+for the next steps. First is Information
+Gathering. It is a process of identifying,
+
+00:00:35.440 --> 00:00:43.840
+discovering, and obtaining information that
+may have relevance to the penetration test.
+
+00:00:47.520 --> 00:00:55.840
+Second is OSINT or open source intelligence. An
+actionable information that has been gathered
+
+00:00:55.840 --> 00:00:58.880
+from freely and publicly available sources.
+
+00:01:04.400 --> 00:01:10.000
+Next is whois. It is a protocol
+that supports querying of data
+
+00:01:10.000 --> 00:01:15.360
+related to entities who register public
+domains and on their internet resources.
+
+00:01:16.240 --> 00:01:20.560
+This information is available
+to anyone who queries databases.
+
+00:01:25.600 --> 00:01:32.080
+Next, information can also be coming
+from the organization's website.
+
+00:01:33.360 --> 00:01:42.320
+Marketing sites have the potential to be the
+OSINT. Most sites have the "About" page. These
+
+00:01:42.320 --> 00:01:50.320
+marketing sites provide a following information
+such as high profile personnel, upcoming events,
+
+00:01:51.120 --> 00:01:58.640
+forms to be filled out, user forums, additional
+contact information and links to social media.
+
+00:02:02.640 --> 00:02:06.560
+Social media can also be used
+for passive reconnaissance.
+
+00:02:07.280 --> 00:02:10.800
+Most organizations have some
+presence on the social media.
+
+00:02:12.000 --> 00:02:20.400
+Rich source of information about these individuals
+can be found such social media sites like Twitter,
+
+00:02:20.400 --> 00:02:25.840
+Facebook, LinkedIn, YouTube,
+Instagram and Reddit may be used.
+
+00:02:30.560 --> 00:02:34.000
+On job boards, job posts may reveal
+
+00:02:34.000 --> 00:02:38.960
+information about the personal structure,
+technical environments, and more.
+
+00:02:41.520 --> 00:02:48.320
+Every employer on job posts needs to entice
+and provide enough information to prospective
+
+00:02:48.320 --> 00:02:57.040
+applicants amount and type of information
+given is dependent on this industry and job.
+
+00:03:01.280 --> 00:03:06.480
+Next is Google Hacking. It is a
+process of using google search engine
+
+00:03:06.480 --> 00:03:14.320
+to identify potential security weaknesses. It is
+also not considered hacking in a strict sense.
+
+00:03:16.080 --> 00:03:23.920
+You may extract information from a typical
+search. It includes special search operators
+
+00:03:23.920 --> 00:03:35.200
+to provide more focused results such as site,
+link, filetype, intitle, inurl and inanchor.
+
+00:03:40.080 --> 00:03:44.000
+Information can also be found
+in online articles and news.
+
+00:03:44.800 --> 00:03:52.080
+It can provide insights about the target
+organization. Usually, larger businesses are
+
+00:03:52.080 --> 00:03:58.080
+featured by mainstream news outlets while
+smaller businesses issue press releases.
+
+00:03:59.680 --> 00:04:13.840
+It will not always reveal what you need to know.
+This should be a conjunction with other OSINT.

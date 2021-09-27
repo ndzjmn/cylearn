@@ -1,0 +1,193 @@
+Here is the lesson flow: (1)
+introduction to antivirus software;
+
+(2) how does antivirus software work and
+(3) choosing the best antivirus software.
+
+Introduction to Antivirus Software
+
+A computer plugged into the internet is always
+at high risk and it is always recommended
+
+to install antivirus software onto the
+system. A computer virus can degrade
+
+the performance of a computer and delete stored
+computer data. Viruses usually spread through
+
+networks by means of download, email and shared
+disk. If an infected file is attached to these
+
+sources then the system is likely to become
+infected upon opening the infected files.
+
+Some of the symptoms indicating viral infection
+are improper functioning of applications.
+
+Slow operation and unusual error message, frequent
+hanging, frequent restarting, problem sprinting,
+
+double extension on any attachment, and distorted
+menus and dialog boxes. An antivirus program
+
+scans the hard drive and floppy disk to protect
+the computer against viruses, worms, spywares,
+
+trojans and more. It ensures that the system is
+healthy and alerts the person to implement safety
+
+measures against harmful attacks. Regularly update
+the antivirus software by subscribing to the
+
+updates from anti-virus vendors whenever offered.
+The virus dictionary and the suspicious behavior
+
+approaches are the most widely used approaches
+by antivirus software to detect malware.
+
+The Need for Antivirus Program
+
+When a PC is connected to the internet, the
+PC has to combat different malicious programs
+
+such as viruses, worms,
+trojans, spyware, and more.
+
+Cyber criminals such as attackers, and hackers
+use these malicious programs as tools to steal
+
+important information such as personal data
+stored in the computer. Due to the invasion of
+
+malicious programs in the cyberspace, antivirus
+programs have become necessary for computers.
+
+How does antivirus software work?
+Most of the commercial antivirus
+
+software used two techniques: First, one
+would be the virus dictionary approach
+
+and the second one would be detecting
+suspicious behavior from a computer program.
+
+First one is the virus dictionary approach.
+The antivirus software refers to the dictionary
+
+of known viruses identified by the
+author of the antivirus software.
+
+The antivirus software can delete the file repair
+the file by removing the virus or quarantine it to
+
+make the file inaccessible to other programs. To
+be successful, this approach requires the virus
+
+dictionary to be updated with periodic online
+downloads. The antivirus software usually examines
+
+files when the OS creates opens and closes
+the files as well as when they are emailed.
+
+The software can be normally scheduled on
+the hard disk to regularly examine the files.
+
+The suspicious behavior approach include the
+following: In this approach, the antivirus
+
+software monitors the behavior of all programs
+instead of identifying the known viruses. Whenever
+
+the program its suspicious behavior is found the
+software alerts the user and asks what to do.
+
+This approach provides protection against new
+viruses that do not exist in virus dictionaries.
+
+There are other ways to detect viruses. First one
+would be antivirus software will try to emulate
+
+the beginning of each new executable code that
+is being executed before transferring control to
+
+the executable. If the program seems to be a virus
+or using self-modifying code, then it immediately
+
+examines the other executable programs. This
+approach results in more false positives.
+
+Sandbox is another kind of detection method
+that emulates the OS and runs the executable
+
+in situation. The sandbox is examined for a virus
+
+after the termination of a program. It
+is performed during an on-demand scans.
+
+Choosing the Best Antivirus Software
+
+When purchasing an anti-virus software,
+look for certain features and choose the
+
+one that can best serve your needs. The
+most important things to consider are:
+
+In antivirus scanning there should be antivirus
+detection accuracy which ensures that the
+
+anti-virus software scans and detects viruses
+accurately and detects the majority of threats.
+
+For the scanning speed, ensure that
+the anti-virus software can perform
+
+the task quickly and efficiently. For resource
+utilization, ensures that the anti-virus software
+
+utilizes minimal resources and does not affect
+system performance when scanning the computer.
+
+Next things to consider are the hacker
+blocking which prevents other users from
+
+gaining unauthorized access and stealing important
+data such as passwords and other confidential
+
+information. Next is the bidirectional firewall,
+ensure that the antivirus software is equipped
+
+with a software firewall to scan both incoming and
+outgoing traffic. Next is the technical support,
+
+look for good technical support so issues can be
+solved easily. Parental controls - ensure that the
+
+antivirus program has parental control features
+so children can browse the internet safely.
+
+Next is the easy installation the antivirus
+software should be user friendly and easy to use.
+
+The antivirus must also be on demand and
+
+has a scheduled scanning. Allows you to schedule
+a scan according to a user specified time
+
+users can schedule the scan daily weekly or
+monthly. The last three things to consider
+
+in choosing the best antivirus software are
+the automatic updates which keeps the user
+
+abreast of the latest online threats without
+the user having to visit the vendor's website.
+
+Spyware detection and prevention which
+checks for the anti-spyware components
+
+keep spyware at bay and lastly, email
+scanning email protection that can monitor
+
+POP and SMTP ports and ensure that the emails
+do not contain threat to your computer.
+

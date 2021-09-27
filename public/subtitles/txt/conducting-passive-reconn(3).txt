@@ -1,0 +1,91 @@
+Terminologies
+
+Finding Analysis and Weaponization. What is
+weaponization? It is the process of turning
+
+passive reconnaissance results into directions
+or launch points for active reconnaissance
+
+and preliminary attacks. It
+analyze findings for content of
+
+interest. What is content of interest? It
+consists of IP addresses and subdomains external
+
+and third party domains, key personal
+and contact information; information
+
+that facilitates social engineering tests and
+information that reveals specific technologies.
+
+IP Address and Sub Domains. IP address
+gained from OSINT will usually be
+
+public ranges. You can leverage public
+IP addresses through active scanning.
+
+External and Third Party Sites. Perform ocean
+on partner contractor or other related sites.
+
+How you proceed will depend on
+scope and actionable information.
+
+Such examples would be glassdoor.com to be used.
+People. How you leverage people information
+
+depends on several factors such as the role
+to play in the organization, the day-to-day
+
+responsibilities, the teams and departments
+they work with, business identification such as
+
+email address and phone numbers, technical
+aptitude and mindsets and perspectives.
+
+What is social engineering? Social Engineering
+is the practice of deceiving people into giving
+
+away access to unauthorized parties or enabling
+those parties to compromise sensitive assets.
+
+Usually targets are unaware of the trick
+commonly used by attackers because of how
+
+effective it can be. So, this is usually the next
+logical step after gathering people-based OSINT.
+
+Technologies. Technology information
+can prepare you to exploit specific
+
+scenarios. On the third lesson of this
+module is the preparation for the next steps.
+
+First is record your findings and conclusion
+
+in a document. Choose whichever document
+format you're most comfortable with.
+
+Make sure you define what next steps you need to
+take on your tests. The direction should depend on
+
+the scope of the test, findings, and
+personal assessment of the situation.
+
+The guidelines for preparing background
+findings for the next steps is to, first,
+
+clearly determine what next
+steps means for your test.
+
+Analyze the findings to determine
+how to weaponize them in the future.
+
+Consider the findings within a bigger picture
+and disregard irrelevant findings and focus on
+
+the actionable findings. Determine how public IP
+addresses map to public resources you can target
+
+and consider how public address
+might be useful as entry points.
+

@@ -1,0 +1,86 @@
+Securing Network Connections.
+
+Here is the outline of the lesson: first, we're
+going to talk about home and wireless networks.
+
+Second, wireless network security and
+third, securing network connections.
+
+Home and Wireless Networks
+
+A home network or home networks are
+widely used to send emails, schoolwork
+
+and instant messages as well as to download
+music and videos, shop, and play games.
+
+A home network can let them share files
+and documents and internet connection,
+
+printers and scanners, stereos, TVs and
+game systems as well as DVD and CD burners.
+
+Here are the different network devices.
+Router.
+
+It is used for connecting
+the modem to the network.
+
+It determines the next network point to which a
+packet should be forwarded to its destination.
+
+Hub or Switch
+It is a device
+
+that directs the incoming data from any
+of multiple input ports to the specific
+
+output port that will take the data
+toward its intended destination.
+
+Converter
+It is used to connect several
+
+types of cables within an existing
+network
+
+Next is NIC or network interface card which
+is a device that joins computers to LANs.
+
+Modem
+It is used to
+
+connect the system to the network or internet.
+The term modem means "modulator-demodulator".
+
+It converts digital signals
+into analog and vice versa.
+
+Access Point
+It is a wireless
+
+communications hardware that creates a
+central point of wireless connectivity.
+
+Gateway
+
+It is a device that connects
+different network environments
+
+transceiver. It is a network device that has both
+a transmitter and receiver. It is used to transmit
+
+analog or digital signals and the receiver
+is used to receive analog or digital signals.
+
+Cable
+It is
+
+used to connect one network device to another.
+
+Terminals are the hardware
+devices used to enter data
+
+into computer or to display
+data from the computer.
+

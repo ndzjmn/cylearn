@@ -1,0 +1,330 @@
+With millions of individuals becoming
+victims of identity theft, each year,
+
+billions of dollars lost and the amount of time
+victims have to spend to rebuild their credit.
+
+Identity theft is a menace that
+is only getting bigger each day.
+
+This module will explain what identity theft is
+and how users can protect themselves from it.
+
+This module will familiarize you with:
+
+(1) identity theft; (2) social engineering; (3)
+how to find if you are a victim of identity theft;
+
+(4) what to do if identity is stolen;
+(5) protecting from identity theft.
+
+Identity Theft
+
+What is Identity Theft? Individuals work
+hard to support themselves or their family
+
+they keep their credit card scores
+clean and yearn for the benefits that
+
+accompany good credit but they would
+be really frustrated if someone else
+
+uses their name to apply for credit cards run
+bills of thousands of dollars using the card,
+
+opens bank accounts in their name or
+worse yet, commits a crime in their name.
+
+Identity theft or Identity fraud refers to
+crimes in which a person wrongfully obtains
+
+key pieces of personal identifying information
+such as date of birth, social security numbers,
+
+and driver's license numbers, and uses them
+for their own personal gain. Fraudsters
+
+create a persona similar to the victim and take
+advantage of his or her authority and privileges.
+
+The Fair and Accurate Credit Transactions Act of
+2003 or FACTA defines identity theft as a fraud
+
+committed using the identifying information
+of another person. Identifying information
+
+according to the Federal Trade Commission, is
+another name or any number that may be used
+
+alone or in combination with any other
+information to identify a specific individual.
+
+Identifying information includes name,
+social security number, and date of birth.
+
+Official state, or government issued driver's
+license, or identification number, alien
+
+registration number, government passport number,
+and employer, or taxpayer identification number.
+
+Unique biometric data such as fingerprint voice
+print retina or iris image and other unique
+
+physical representations. It may also include
+unique electronic identification, number address,
+
+or routing code, and lastly telecommunication
+identifying information or access device.
+
+Personal information that can be stolen are the
+following: all identity thief needs is a piece of
+
+personal information which may include
+names, addresses, date of birth,
+
+mother's maiden name, telephone numbers, social
+security numbers, driver's license number,
+
+credit card, or bank account numbers,
+birth certificates and passport numbers.
+
+So, how do attackers steal identity? There are two
+methods: the first one is the physical methods.
+
+First is stealing computers laptops and
+backup media: stealing is a common method
+
+the thieves steal hardware from places such as
+hotels and recreational places such as clubs
+
+or government organizations. Given adequate time,
+they can recover valuable data from this media.
+
+Social engineering: this technique is the act of
+manipulating people's trust to perform certain
+
+actions or divulge private information
+without using technical cracking methods.
+
+Next is Theft of personal belongings
+
+Wallets or purses usually contain a
+person's credit cards and driver's license
+
+attackers may steal the belongings
+on streets or in other busy areas.
+
+Next is mail theft and rerouting: mail boxes
+are not often protected and may contain bank
+
+documents such as credit cards or account
+statements, administrative forms and more.
+
+Criminals may use this information to get credit
+cards or for rerouting the mail to a new address.
+
+next is shoulder surfing:
+
+criminals may find user information by glancing
+at documents personal identification numbers
+
+typed into an automatic teller machine
+or ATM, or overhearing conversations.
+
+Skimming refers to stealing credit or debit
+card numbers by using a special storage device
+
+when processing the card. While pretexting, our
+fraudsters may pose as executives from financial
+
+institutions telephone companies and other sources
+to obtain personal information of the user.
+
+Another method in how attackers still identity is
+the internet methods. Pharming is an advanced form
+
+of phishing in which the connection between the
+IP address and its target server is redirected.
+
+The attacker may use cache poisoning or modify
+the internet address with that of a rogue address
+
+to do this. When the user types in the internet
+address, he or she is redirected to the rogue
+
+website that is similar to the original
+website. Keyloggers and password stealers.
+
+An attacker may infect the user's
+computer with trojans and then collect it
+
+such as keyword strokes to steal passwords,
+usernames and other sensitive information.
+
+Phishing. the fraudster may pretend to be
+a financial institution or from a reputed
+
+organization and sends spam or pop-up messages
+to trick the users to reveal their personal
+
+information. And last on the internet methods
+is hacking, wherein attackers may compromise
+
+user systems and route information using listening
+devices such as sniffers and scanners. Attackers
+
+gain access to an abundance of data decrypt
+it if necessary and use it for identity theft.
+
+What do attackers do with stolen identity? in
+credit card fraud: the attackers may use the
+
+information to route the mail to a new residential
+address. The criminal may also use the information
+
+to apply for a new credit card in the victim's
+name and run high bills using the credit cards.
+
+In phone or utilities fraud: the attacker
+may apply for a new phone contract
+
+or a wireless connection and run up
+bills in user's name. They may also use
+
+user information to obtain utility services
+such as electricity, heating, or cable TV.
+
+In bank or finance fraud: the attacker may
+generate forged checks using the victim's name
+
+or account number. They may also open a bank
+account in the victim's name and write bad checks.
+
+The criminal may also duplicate the user's ATM
+or debit card and withdraw money thus depleting
+
+the victim's bank resources and lastly the
+attackers can also apply for bank loans.
+
+In government documents fraud: the
+attacker can obtain a driver's license,
+
+state id and more, with the user's name and
+the criminal's picture. They can also obtain
+
+social security benefits and other government
+benefits that rightfully belong to the user.
+
+They may also file tax returns in a
+user's name and obtain tax benefits.
+
+Other frauds may include the following
+such as acquiring a job using the
+
+user's social security number or SSN, and listing
+a house in the user's name. Social Engineering.
+
+Social engineering is the art of convincing
+people to reveal confidential information.
+
+It is a trick used to gain sensitive
+information by exploiting basic human nature.
+
+Social engineers attempt to gather the
+following: such as when criminals aim to
+
+gather sensitive information such as credit card
+details, social security number, passwords, and
+
+other personal information, and more. The types
+of social engineering includes the following:
+
+human-based social engineering and
+computer-based social engineering.
+
+For human-based social engineering it is using
+a direct interactions with key individuals
+
+in an organization to exploit or manipulate people
+into providing the confidential information.
+
+These attacks mainly use impersonation
+and its methods include the following:
+
+eavesdropping, shoulder
+surfing, and dumpster diving.
+
+In human based social engineering, eavesdropping
+
+is an unauthorized listening
+of conversations or reading of
+
+messages. It is the interception of any form of
+communication such as audio video or written.
+
+For shoulder surfing, it is a procedure
+where the attacker look over the user's
+
+shoulder to gain critical information such
+as passwords, personal identification number,
+
+account numbers, credit card information, and
+more. For the dumpster diving, it includes
+
+searching for sensitive information at the
+target company's trash bins, printer trash bins
+
+and user desk for sticky notes and more. Next
+is the computer-based social engineering.
+
+There are three methods of computer-based social
+engineering which includes pop-up windows which
+
+suddenly pop up while surfing the internet and
+ask for users information to log in or sign up.
+
+Hoax letters which are emails that issue warnings
+to the user on new viruses trojans or worms that
+
+may harm the user system, and lastly the chain
+letters which are emails that offer free gifts
+
+such as money and software on the condition
+that the user has to forward the mail to the
+
+said number of persons. Next is the instant chat
+messenger wherein attackers use instant messaging
+
+to gather personal information by chatting with
+the selected online user to get information like
+
+birth dates and media names. Lastly, spam email
+which is irrelevant, unwanted, and unsolicited
+
+email to collect financial information, social
+security numbers, and network information.
+
+Computer-based social engineering also includes
+the following methods such as phishing which is
+
+an illegitimate email falsely claiming to be from
+a legitimate site that attempts to acquire the
+
+user's personal information. Phishing emails
+or pop-ups redirect users to fake web pages
+
+of mimicking trustworthy sites that ask
+them to submit their personal information.
+
+Next is phony security alerts.
+
+Phony security alerts are the emails or pop-up
+windows that seem to be from required hardware
+
+or software manufacturers like Microsoft,
+Dell and more. It warns or alerts the user
+
+that the system is infected and thus will provide
+with an attachment or a link to patch the system.
+

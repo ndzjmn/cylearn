@@ -1,0 +1,162 @@
+﻿WEBVTT
+
+00:00:02.960 --> 00:00:08.320
+This is the continuation of the discussion
+for the passive reconnaissance techniques.
+
+00:00:11.280 --> 00:00:18.320
+DNS querying queries for name resolution
+information can reveal the target's network
+
+00:00:18.320 --> 00:00:25.440
+structure. Standard queries identify IP
+addresses associated with domain name.
+
+00:00:27.600 --> 00:00:30.880
+Advanced queries retrieve additional DNS records
+
+00:00:32.000 --> 00:00:38.400
+and some querying tools may be used
+such as nslookup and dig in Linux.
+
+00:00:42.560 --> 00:00:49.600
+Email addresses one of the most useful elements
+of contact information is an email address.
+
+00:00:50.400 --> 00:00:54.000
+The main point of contact for most organizations
+
+00:00:54.000 --> 00:01:00.240
+is also email addresses so email addresses
+are also commonly used as account names.
+
+00:01:01.520 --> 00:01:08.080
+Enumerating email-based DNS records is also
+useful for conducting passive reconnaissance.
+
+00:01:11.520 --> 00:01:20.400
+Shodan is a search engine that enables anyone to
+connect to public or improperly secure devices
+
+00:01:20.400 --> 00:01:22.880
+that allow remote access through the internet.
+
+00:01:24.160 --> 00:01:31.760
+An example scenario is when a zoo sets up an
+IP camera for anyone to watch the animals.
+
+00:01:33.200 --> 00:01:37.520
+Shodan indexes the connection and
+allows anyone to search for it.
+
+00:01:38.960 --> 00:01:44.560
+Most devices found in shodan are
+improperly secured or not secured at all.
+
+00:01:47.600 --> 00:01:52.640
+theHarvester. It is an open source
+OSINT tool that gathers several
+
+00:01:52.640 --> 00:01:59.280
+different types of background information
+on a target. It gathers subdomain names,
+
+00:01:59.280 --> 00:02:07.840
+employee names, email addresses, PGP key entries,
+and open ports as well as service banners.
+
+00:02:08.960 --> 00:02:14.480
+theHarvester uses general search
+engines such as Google and Bing.
+
+00:02:20.080 --> 00:02:25.920
+Recon-NG it is a command line open
+source for gathering OSINT data.
+
+00:02:26.800 --> 00:02:35.840
+The functions of recon ng are similar
+to the harvester but more robust.
+
+00:02:37.920 --> 00:02:43.680
+Maltego. it is a graphical awesome
+tool that can gather a wide variety
+
+00:02:43.680 --> 00:02:50.720
+of information on public resources;
+Features awesome objects graphically
+
+00:02:50.720 --> 00:02:57.680
+and with links to the other objects it helps
+the user to visualize OSINT relationships
+
+00:03:01.520 --> 00:03:08.400
+Foca. Foca or known as Fingerprinting
+Organizations with Collected
+
+00:03:08.400 --> 00:03:15.200
+Archives is a GUI OSINT tool that
+discovers metadata that may be
+
+00:03:15.200 --> 00:03:21.280
+hidden within documents. It documents
+typically downloaded files from the web
+
+00:03:22.560 --> 00:03:29.520
+it can also work with variety of the document
+types such as office, open document, and more.
+
+00:03:31.280 --> 00:03:39.760
+It uses a search engine like google to identify
+files. It extracts useful metadata such as names
+
+00:03:40.480 --> 00:03:47.520
+software, or operating system versions ,
+printer information, and plain text passwords
+
+00:03:50.640 --> 00:03:54.560
+Here are the following guidelines
+for gathering background information.
+
+00:03:55.680 --> 00:04:00.800
+First, understand that not all
+gathered information will be useful.
+
+00:04:02.240 --> 00:04:07.840
+Second, understand the difference between
+OSINT and closed-source intelligence.
+
+00:04:09.120 --> 00:04:16.400
+Third, recognize which sources provide
+OSINT and which do not. Fourth,
+
+00:04:17.280 --> 00:04:21.760
+perform whois queries to obtain
+registration information.
+
+00:04:23.600 --> 00:04:31.440
+Fifth, examine organization's main site for
+personal and business information. Sixth,
+
+00:04:32.400 --> 00:04:36.480
+look for related sites to
+corroborate or expand your OSINT.
+
+00:04:37.920 --> 00:04:43.200
+Seventh, look over social media
+profiles for revealing information.
+
+00:04:44.720 --> 00:04:51.120
+Eight, search job boards for personal
+issues or technology information.
+
+00:04:52.480 --> 00:05:00.880
+Ninth, conduct google hacking to run
+advanced queries on websites and then
+
+00:05:00.880 --> 00:05:09.840
+the last on this page, examine news articles
+to stay up to date on target's business.
+
+00:05:11.440 --> 00:05:22.320
+Here are more guidelines for
+gathering background information.

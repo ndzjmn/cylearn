@@ -1,0 +1,123 @@
+﻿WEBVTT
+
+00:00:03.760 --> 00:00:04.880
+Terminologies
+
+00:00:07.840 --> 00:00:14.800
+Finding Analysis and Weaponization. What is
+weaponization? It is the process of turning
+
+00:00:14.800 --> 00:00:21.040
+passive reconnaissance results into directions
+or launch points for active reconnaissance
+
+00:00:21.040 --> 00:00:26.720
+and preliminary attacks. It
+analyze findings for content of
+
+00:00:26.720 --> 00:00:39.360
+interest. What is content of interest? It
+consists of IP addresses and subdomains external
+
+00:00:39.360 --> 00:00:45.920
+and third party domains, key personal
+and contact information; information
+
+00:00:45.920 --> 00:00:52.400
+that facilitates social engineering tests and
+information that reveals specific technologies.
+
+00:00:56.640 --> 00:01:03.040
+IP Address and Sub Domains. IP address
+gained from OSINT will usually be
+
+00:01:03.040 --> 00:01:11.840
+public ranges. You can leverage public
+IP addresses through active scanning.
+
+00:01:15.920 --> 00:01:24.160
+External and Third Party Sites. Perform ocean
+on partner contractor or other related sites.
+
+00:01:25.360 --> 00:01:29.600
+How you proceed will depend on
+scope and actionable information.
+
+00:01:31.280 --> 00:01:41.840
+Such examples would be glassdoor.com to be used.
+People. How you leverage people information
+
+00:01:41.840 --> 00:01:48.880
+depends on several factors such as the role
+to play in the organization, the day-to-day
+
+00:01:48.880 --> 00:01:56.320
+responsibilities, the teams and departments
+they work with, business identification such as
+
+00:01:56.320 --> 00:02:02.960
+email address and phone numbers, technical
+aptitude and mindsets and perspectives.
+
+00:02:06.320 --> 00:02:12.800
+What is social engineering? Social Engineering
+is the practice of deceiving people into giving
+
+00:02:12.800 --> 00:02:18.960
+away access to unauthorized parties or enabling
+those parties to compromise sensitive assets.
+
+00:02:20.080 --> 00:02:27.920
+Usually targets are unaware of the trick
+commonly used by attackers because of how
+
+00:02:27.920 --> 00:02:36.160
+effective it can be. So, this is usually the next
+logical step after gathering people-based OSINT.
+
+00:02:38.560 --> 00:02:44.000
+Technologies. Technology information
+can prepare you to exploit specific
+
+00:02:44.000 --> 00:02:56.480
+scenarios. On the third lesson of this
+module is the preparation for the next steps.
+
+00:03:00.800 --> 00:03:04.000
+First is record your findings and conclusion
+
+00:03:04.000 --> 00:03:09.520
+in a document. Choose whichever document
+format you're most comfortable with.
+
+00:03:10.720 --> 00:03:18.320
+Make sure you define what next steps you need to
+take on your tests. The direction should depend on
+
+00:03:18.320 --> 00:03:24.000
+the scope of the test, findings, and
+personal assessment of the situation.
+
+00:03:27.520 --> 00:03:32.960
+The guidelines for preparing background
+findings for the next steps is to, first,
+
+00:03:32.960 --> 00:03:36.080
+clearly determine what next
+steps means for your test.
+
+00:03:37.440 --> 00:03:41.360
+Analyze the findings to determine
+how to weaponize them in the future.
+
+00:03:43.680 --> 00:03:50.640
+Consider the findings within a bigger picture
+and disregard irrelevant findings and focus on
+
+00:03:50.640 --> 00:03:57.920
+the actionable findings. Determine how public IP
+addresses map to public resources you can target
+
+00:03:58.480 --> 00:04:13.840
+and consider how public address
+might be useful as entry points.
